@@ -57,20 +57,20 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
+┏━━━━━━━━━━━━━━⚡
+┃Volt-MD SESSION IS 
 ┃SUCCESSFULLY
-┃CONNECTED ✅🔥
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+┃CONNECTED ✅⚡
+┗━━━━━━━━━━━━━━━⚡
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬⚡
+❶ || Creator = 𖥘 Voltage Lord𖥘
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬⚡
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬⚡
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+Wanna talk to me?👉 👈
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬⚡
+©*2024-2099 Voltage Lord*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
