@@ -59,20 +59,20 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
+┏━━━━━━━━━━━━━━⚡
+┃Volt--MD SESSION IS 
 ┃SUCCESSFULLY
-┃CONNECTED ✅🔥
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+┃CONNECTED ✅⚡
+┗━━━━━━━━━━━━━━━⚡
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬⚡
+❶ || Creator = 𖥘 Voltage Lord 𖥘
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬⚡
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬⚡
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+We could talk🤗?👉 https://t.me/Voltage_Lord01 👈
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬⚡
+©*2024-2099 Voltage Lord*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
