@@ -1,4 +1,4 @@
-const PastebinAPI = require('pastebin-js'),
+pconst PastebinAPI = require('pastebin-js'),
 pastebin = new PastebinAPI('EMWTMkQAVfJa9kM-MRUrxd5Oku1U7pgL')
 const {makeid} = require('./id');
 const express = require('express');
@@ -68,7 +68,7 @@ router.get('/', async (req, res) => {
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬⚡
 Please Follow My Support Channel
-Wanna talk to me?👉 👈
+We could talk🤗?👉https://t.me/Voltage_Lord01👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬⚡
 ©*2024-2099 Voltage Lord*
 
