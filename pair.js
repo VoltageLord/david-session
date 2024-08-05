@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━⚡
-┃Volt-MD SESSION IS 
+┃Voltage-V2 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅⚡
 ┗━━━━━━━━━━━━━━━⚡
